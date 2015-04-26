@@ -24,6 +24,7 @@ The script is annotated, but works as follows:
 13. Finally, writes the data frame to a text file.  
 
 The following files must be in your working directory:
+
 1. X_train.txt
 2. y_train.txt
 3. subject_train.txt
