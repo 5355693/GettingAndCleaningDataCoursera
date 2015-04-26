@@ -8,6 +8,7 @@ Executing the R script "run_analysis.R" will accomplish the following:
 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The script is annotated, but works as follows:
+
 1. Reads in the file containing test data ("X_test.txt").  For the script to work, this file must be in your working directory.
 2. Reads in the file "features.txt", which has the identity of each column included in the test data file.
 3. Uses the "features.txt" file to assign descriptive names to each column of the test data file.  
