@@ -1,4 +1,4 @@
-
+##How the script "run_analysis.R" works
 Executing the R script "run_analysis.R" will accomplish the following:
 
 1. Merges the training and the test sets to create one data set.
