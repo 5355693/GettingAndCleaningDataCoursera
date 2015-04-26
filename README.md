@@ -24,13 +24,13 @@ The script is annotated, but works as follows:
 13. Finally, writes the data frame to a text file.  
 
 The following files must be in your working directory:
-X_train.txt
-y_train.txt
-subject_train.txt
-X_test.txt
-y_test.txt
-features.txt
-subject_text.txt
+1. X_train.txt
+2. y_train.txt
+3. subject_train.txt
+4. X_test.txt
+5. y_test.txt
+6. features.txt
+7. subject_text.txt
 
 Information about the data:
 ==================================================================
